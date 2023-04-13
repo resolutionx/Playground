@@ -1,2 +1,3 @@
 # Playground
-Licenta lel 
+
+set git
